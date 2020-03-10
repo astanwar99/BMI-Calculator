@@ -1,3 +1,3 @@
 # BMI Calculator
 
-Demostration of UI Design
+Demonstration of UI Design
